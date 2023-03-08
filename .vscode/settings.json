@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "projetos/testando/com/no/teste",
+        "projetos/AulaNo",
+        "lib/atribuicaoreferencia/com",
+        "projetos/testando"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
